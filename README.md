@@ -8,6 +8,9 @@ This project is a Streamlit application that performs sentiment analysis on arti
 - Analyzes sentiment polarity and subjectivity using TextBlob
 - Visualizes sentence-wise sentiment polarity and subjectivity
 
+##To run this projext
+streamlit run sentiment_analysis_app.py
+
 ## Installation
 
 1. Clone the repository:
