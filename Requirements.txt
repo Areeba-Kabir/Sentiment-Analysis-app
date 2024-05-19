@@ -1,0 +1,6 @@
+##Installations
+pip install matplotlib
+pip install streamlit
+pip install textblob
+pip install bs4
+pip install requests
